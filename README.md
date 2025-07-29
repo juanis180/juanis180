@@ -4,12 +4,12 @@
 
 [Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Is it a system, code, new tech discovery  I am interested to know, learn and defend.
 
 ## Objective
 
 
-My journey in electrical electronic engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a Governance, Risk, and Compliance (GRC) analyst to manage and guide an organization.
+My journey in electrical electronic engineering has led me to develop a passion for cybersecurity,software development and I am now eager to transition into this field, specifically aiming to become a SOC analyst and front end developer.
 
 
 <!--
