@@ -9,7 +9,7 @@ Is it a system, code, new tech discovery  I am interested to know, learn and def
 ## Objective
 
 
-My journey in electrical electronic engineering has led me to develop a passion for cybersecurity,software development and I am now eager to transition into this field, specifically aiming to become a SOC analyst and front end developer.
+My journey in life has led me to develop a passion for cybersecurity,software development and I am now eager to transition into this field, specifically aiming to become a SOC analyst and front end developer.
 
 
 <!--
